@@ -51,7 +51,3 @@ El sistema es un juego basado en las reglas clásicas de la Torre de Hanoi, que 
   - `quitar_disco()`: Quita y devuelve el disco superior de la torre.
   - `validar_movimiento(disco)`: Valida si un disco puede colocarse en la torre.
 
-#### **Clase: Disco**
-- **Responsabilidad:** Representar los discos del juego.
-- **Atributos:**
-  - `tamaño`: Tamaño del disco (número entero).

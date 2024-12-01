@@ -21,11 +21,9 @@
 ### **Actividades**
 | Actividad                                     | Estado      | Realizado por                                | Revisado por           |
 |----------------------------------------------|-------------|---------------------------------------------|------------------------|
-| Tema, objetivos, alcance, requisitos del sistema | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 | Plan de Iteración                             | Completado  | Darío Palma (Manager)                       | María Mendoza (Tracker) |
 | Historias de Usuario                          | Completado  | Daniel Oña (Tester), José Merchán (Customer) | María Mendoza (Tracker) |
 | Pruebas Funcionales                           | Completado  | Daniel Oña (Tester), José Merchán (Customer) | María Mendoza (Tracker) |
-| Release plan                                  | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 | Seguimiento de la fase                        | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 
 ---
@@ -38,7 +36,6 @@
 | Diagrama de Clases UML                        | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Tarjetas CRC                                  | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Metáfora del sistema                          | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
-| Refactorización                               | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Seguimiento de la fase                        | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 
 ---
@@ -48,11 +45,10 @@
 ### **Actividades**
 | Actividad                                     | Estado      | Realizado por                                | Revisado por           |
 |----------------------------------------------|-------------|---------------------------------------------|------------------------|
-| Manual de Usuario                             | Pendiente   | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Implementación de HU1: Representación básica del juego | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Implementación de HU2: Movimiento de discos  | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
 | Implementación de HU3: Validación de movimientos | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
-| Pruebas Unitarias                             | Completado  | Jhon Morales (Developer)                    | María Mendoza (Tracker) |
+| Pruebas Unitarias                             | Completado  | Jhon Morales (Developer), Daniel Oña (Tester)            | María Mendoza (Tracker) |
 | Seguimiento de la fase                        | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 
 ---
@@ -63,7 +59,6 @@
 | Actividad                                     | Estado      | Realizado por                                | Revisado por           |
 |----------------------------------------------|-------------|---------------------------------------------|------------------------|
 | Ejecución de pruebas funcionales             | Completado  | Daniel Oña (Tester), José Merchán (Customer) | María Mendoza (Tracker) |
-| Ejecución de pruebas de aceptación           | Completado  | Daniel Oña (Tester), José Merchán (Customer) | María Mendoza (Tracker) |
 | Seguimiento de la fase                        | Completado  | María Mendoza (Tracker)                     | María Mendoza (Tracker) |
 
 ---
